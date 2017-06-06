@@ -1,0 +1,33 @@
+"BAD_HEADER_TEXT" = "Options: (respring to apply)";
+"BAD_THEME_TEXT" = "Themeing: (read & respring to apply)";
+"COMPAT_HEADER_TEXT" = "Options: (no respring)";
+"COMPAT_FOOTER_TEXT" = "Enable or disable features using these toggles";
+"COMPAT_ENABLE_LABEL" = "SpringChanger support (non-iPh7)";
+"COMPAT_RANDOM_LABEL" = "Use Random Colours";
+"COMPAT_CELL_LABEL" = "Cell Toggle on Main page";
+"COMPAT_LPM_LABEL" = "Low Power Toggle on Main page";
+"COMPAT_REC_LABEL" = "CCRecord Toggle on Main page";
+"COMPAT_SML_LABEL" = "Smaller Button Toggles";
+
+"CUSTOMBOOK_URL" = "WiFi Bookmark URL";
+"THEME_LABEL" = "Use Custom Toggle Icons";
+"THEME_FOOTER_TEXT" = "Since many wanted this I added it in pretty simply, obv its not fancy like Anemone but it works. If you enable the above toggle then it will check on respring for an image named as such (and it must be exact)
+
+lpm.png //this is the low power mode toggle image
+cell.png //this is the cellular data toggle image
+rec.png //this is the recording toggle image.
+
+Put files in this location (with Filza or an alternative)
+
+/Library/PreferenceBundles/springtimeprefs.bundle/Toggles/
+
+feel free to overwrite the ones I have supplied to be sure you did it correctly. Black glyph size 50x50 is best, respring after putting your images in with the toggle enabled to see your changes.
+
+I will not be offering themeing related support so please do your best with this =)";
+
+
+"DEVELOPER_HEADER_TEXT" = "Note from Developer:";
+"DEVELOPER_FOOTER_TEXT" = "
+While my work may be free, coffee is not. Please consider sharing a dollar or two if you enjoy my tweaks & can afford to, every bit is greatly appreciated.
+
+ If you choose to donate, feel free to attach your Cydia ID/email if you're interested in receiving all of my future tweaks free, your support means the world to me!";

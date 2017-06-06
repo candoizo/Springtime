@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = springtimeprefs;
+	cell = PSLinkCell;
+	detail = springtimeprefsListController;
+	icon = wormhole.png;
+	isController = 1;
+	label = Wormhole;
+    };
+}

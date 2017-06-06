@@ -1,0 +1,9 @@
+Package: com.candoizo.springtime
+Name: Wormhole
+Depends: mobilesubstrate
+Version: 2.1.0
+Architecture: iphoneos-arm
+Description: Give CC a bit more utility.
+Maintainer: candoizo
+Author: @candoizo
+Section: Tweaks
